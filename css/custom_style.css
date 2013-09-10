@@ -1,0 +1,9 @@
+.logoFirstImg{
+	background-image: url(../images/icon_icsg/ICSG_ICON.png);
+	width: 90px;
+	height: 70px;
+	display: inline-block;
+	vertical-align: middle;
+	background-position: center;
+	background-size: 100%;
+}
