@@ -122,7 +122,7 @@
                               </ul>
                             </li>
                             <li>
-                              <a href="contacts.html" class="fNiv last">Contactenos<br/>
+                              <a href="" class="fNiv last">Contactenos<br/>
                               <span class="smallText">Envienos un mensaje</span></a>
                             </li>
                           </ul>
