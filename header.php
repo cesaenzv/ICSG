@@ -80,10 +80,10 @@
                   <div class="row">
                         <div class="span9">
                             <ul id="jMenu">
-                              <li><a href="index.php" class="fNiv">Inicio<br/>
+                              <li><a href="index.php" class="fNiv active">Inicio<br/>
                                 <span class="smallText">Pagina inicial</span></a>
                               </li>
-                              <li><a href="quienessomos.php" class="fNiv active">Quienes somos<br/>
+                              <li><a href="quienessomos.php" class="fNiv">Quienes somos<br/>
                                 <span class="smallText">Conocenos</span></a>
                                 <ul>
                                   <li><a href="">Mision</a></li>
