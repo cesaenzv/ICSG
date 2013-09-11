@@ -58,7 +58,7 @@
               <div class="row">
                   <!-- logo - font -->
                     <div class="span6 logo">
-                        <a href="index.html"><span class="logoFirstImg"></span><span class="logoFirst">SAN</span> GERMAN</a>
+                        <a href="index.php"><span class="logoFirstImg"></span><span class="logoFirst">SAN</span> GERMAN</a>
                         <span class="small">ICSG S.A.</span>
                     </div>
                     

@@ -36,17 +36,17 @@
                             </div>
                             <!-- Flickr -->
                             <div class="span4">
-                                <h4>Flickr</h4>
-                                <ul class="basicuse thumbs"></ul><!-- Flickr Code -->
+                                <h4>Enlaces de interes</h4>
+                                <dd>
+                                    <dl><i class="icon-globe"></i><a href="http://www.conavi.com/"> Conavi</a></dl>
+                                    <dl><i class="icon-globe"></i><a href="http://exsis.com.co/"> Exsis Software y Soluciones</a></dl>
+                                    <dl><i class="icon-globe"></i><a href="https://www.bbva.com.co/"></a> BBVA</dl>
+                                    <dl><i class="icon-globe"></i><a href="http://www.grupobancolombia.com/home/index.asp"> Bancolombia</a></dl>
+                                    <dl><i class="icon-globe"></i><a href="http://cifin.asobancaria.com/cifin/index.jsp"> Cifin</a></dl>
+                                    <dl><i class="icon-globe"></i><a href="http://www.segurosdelestado.com/cmsestado/paginas/documento.aspx"> Seguros del Estado</a></dl>
+                                    <dl><i class="icon-globe"></i><a href="http://www.servientrega.com/index2.html"> Servientrega</a></dl>
+                                </dd>
                                 
-                                <div class="clearfix"></div>
-                                <div class="subscribee">
-                                    Subscribe to our e-mail newsletter to receive updates.<br/><br/>
-                                    <form class="subscribe">
-                                        <input class="inputSubscribe" type="text" placeholder="Enter Your Email" />
-                                        <button class="btn btn-warning btnSubscribe">Send</button>
-                                    </form>
-                                </div>
                             </div>
                         </div>
                         
@@ -59,11 +59,8 @@
                             
                             <div class="span6">
                                 <ul class="footer-social tooltip-title">
-                                <li><a href="#" rel="tooltip" title="facebook"><i class="icon-facebook-sign"></i></a></li>
-                                <li><a href="#" rel="tooltip" title="twitter"><i class="icon-twitter-sign"></i></a></li>
-                                <li><a href="#" rel="tooltip" title="google plus"><i class="icon-google-plus-sign"></i></a></li>
-                                <li><a href="#" rel="tooltip" title="piterest"><i class="icon-pinterest-sign"></i></a></li>
-                                <li><a href="#" rel="tooltip" title="linked in"><i class="icon-linkedin-sign"></i></a></li>
+                                    <li><a href="#" rel="tooltip" title="Contragarantias"><i class="icon-google-plus-sign"></i></a></li>
+                                    <li><a href="#" rel="tooltip" title="Sarlaft"><i class="icon-pinterest-sign"></i></a></li>                                
                                 </ul>
                             </div>
                         </div>

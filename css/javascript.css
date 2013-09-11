@@ -10,7 +10,7 @@
 }
 nav.container {
 	padding: 0;
-	background: #333;	
+	background: #164f9f;	
 }
 #jMenu {
 	display:table;
@@ -52,7 +52,7 @@ nav.container {
 
 #jMenu li a:hover, #jMenu li a.active {
 	text-decoration: none;
-	border-bottom: 3px solid #F5AF27;
+	border-bottom: 3px solid #AABF54;
 	color: #fff;
 	text-shadow: none;
 	-webkit-transition: all .3s ease-in 0s;
@@ -71,8 +71,9 @@ nav.container {
 	width: 171px;
 	z-index: 5;
 	left: 0px !important;
-	border: 1px solid #333;
-	background: #333;
+	border: 1px solid #164f9f;
+	border-bottom: 1px solid #AABF54;
+	background: #164f9f;
 	border-top: none;
 }
 #jMenu li ul li {
@@ -84,8 +85,8 @@ nav.container {
 #jMenu li ul li a {
 	font-size:12px;
 	display:block;
-	color: #eee;
-	background: #333;
+	color: #cee8fd;
+	background: #164f9f;
 	padding: 7px 15px;
 	-webkit-transition: all 0.2s ease-in;
 	-moz-transition: all 0.2s ease-in;
@@ -93,27 +94,27 @@ nav.container {
 	-o-transition: all 0.2s ease-in;
 	transition: all 0.2s ease-in;
 	margin-right: 0;
-	border-bottom: 1px solid #000000;
-    border-top: 1px solid #575757;
+	border-bottom: 1px solid #AABF54;
+    border-top: 1px solid #AABF54;
 
 }
 #jMenu li ul li a:hover {
-	color: #eee;
+	color: #cee8fd;
 	padding: 7px 15px 7px 20px !important;
-	background: #555;
-	border-bottom: 1px solid #999;
+	background: #1756ae;
+	border-bottom: 1px solid #AABF54;
 }
 #jMenu li ul li a.isParent {
-	background: #333 url(../images/arrow_right.png) no-repeat 95% 50%;
+	background: #1756ae url(../images/arrow_right.png) no-repeat 95% 50%;
 	margin-right: 0;
 }
 #jMenu li ul li a.isParent:hover {
-	background: #555;
+	background: #1756ae;
 }
 #jMenu li ul li ul {
 	left: 100% !important;
 	top: -1px !important;
-	border: 1px solid #333;
+	border: 1px solid #1756ae;
 }
 
 #jMenu li ul li .smallText {
@@ -202,7 +203,7 @@ nav select {
 .text-animate-2 {
 	font-size: 900%;
 	line-height: 100%;
-	color: #333;
+	color: #164f9f;
 }
 
 .text-animate-3 {
@@ -215,12 +216,12 @@ nav select {
 .text-animate-4 {
 	font-size: 330%;
 	line-height: 100%;
-	color: #333;
+	color: #164f9f;
 }
 
 .text-animate-5 {
 	font-size: 200%;
-	color: #333;
+	color: #164f9f;
 }
 
 .text-animate-10 {
@@ -338,7 +339,7 @@ transition: all .1s ease-out 0s;}
 .nav-tabs { border-bottom: none }
 .nav-tabs > .active > a, .nav-tabs > .active > a:hover {
 	color: #787878;
-	background-color: #eee;
+	background-color: #cee8fd;
 	border: none;
 	border-top: 2px solid #F5AF27;
 }
@@ -348,7 +349,7 @@ transition: all .1s ease-out 0s;}
 	border-radius: 0;
 }
 .tab-content {
-	background: #eee;
+	background: #cee8fd;
 	padding: 20px;
 }
 
@@ -410,12 +411,12 @@ transition: all .1s ease-out 0s;}
   position:relative;
 }
 .liquid-slider-wrapper .liquid-nav a {
-  color: #333333;
+  color: #164f9f333;
   margin-right: 1px;
   padding: 3px 6px;  
 }
 .liquid-slider-wrapper .liquid-nav a:hover {
-  color: #333333;
+  color: #164f9f333;
   text-shadow: none;
 }
 .liquid-slider-wrapper .liquid-nav .current {
@@ -612,7 +613,7 @@ transition: all .1s ease-out 0s;}
    position: relative;
    text-align: center;
    cursor: default;
-   background: #eee;
+   background: #cee8fd;
    text-align: center;
    padding-bottom: 10px;
    border-bottom: 2px solid #EE7E2A;
@@ -624,7 +625,7 @@ transition: all .1s ease-out 0s;}
    position: relative;
    text-align: center;
    cursor: default;
-   background: #eee;
+   background: #cee8fd;
    text-align: center;
 }
 
@@ -737,7 +738,7 @@ transition: all .1s ease-out 0s;}
 	height:40px;
 	border:none;
 	text-indent:100%;
-	background:#333 url(../images/icons/totop.png) center center no-repeat;
+	background:#164f9f url(../images/icons/totop.png) center center no-repeat;
 }
 #toTopHover {
 	background:#F5AF27 url(../images/icons/totop.png) center center no-repeat;
@@ -765,7 +766,7 @@ transition: all .1s ease-out 0s;}
 
 .myToggler{
 	cursor:pointer;
-	background: #eee;
+	background: #cee8fd;
 	padding: 10px;
 	margin-bottom: 5px;
 }
@@ -855,7 +856,7 @@ transition: all .1s ease-out 0s;}
 #clock-ticker .block {
 	display: inline-block;
 	padding:10px 20px;
-	background: #eee;
+	background: #cee8fd;
 	color: #000;
 	margin: 10px;
 }
@@ -874,7 +875,7 @@ transition: all .1s ease-out 0s;}
 	display:block;
 	padding:10px 0;
 	font-size:35px;
-	background: #eee;
+	background: #cee8fd;
 	padding-bottom: 20px;
 	color: #000;
 	text-shadow: none;
@@ -1055,7 +1056,7 @@ html[xmlns] .slides {
 }
 	
 .flex-control-paging li a:hover {
-	background: #333; 
+	background: #164f9f; 
 	background: rgba(0,0,0,0.7); 
 }
 

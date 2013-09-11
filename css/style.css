@@ -24,7 +24,7 @@
 =================================================================================*/   
 ::selection, ::-moz-selection {
 	background: #F5AF27;
-	color: #fff
+	color: #cee8fd
 }
 body {
 	font-family: "ArmataRegular", Helvetica, Arial, sans-serif;
@@ -53,13 +53,13 @@ h1 {
 h2 {
   font-size: 20px;
   line-height: 40px;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #cee8fd;
 }
 
 h3 {
   font-size: 17px;
   line-height: 40px;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #cee8fd;
 }
 
 h4 {
@@ -196,7 +196,7 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 }
 
 textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input {
-	border: 1px solid #eee;
+	border: 1px solid #cee8fd;
 }
 
 .carousel {
@@ -242,7 +242,7 @@ h1 small {
                
 .pattern-light {
 	background: url(../images/patterns/subtlenet2-light.png);
-	border-bottom: 1px solid #eee;
+	border-bottom: 1px solid #cee8fd;
 }   
                    
 .dark {
@@ -262,7 +262,7 @@ aside ul {
 }                      
 
 span.wt {
-	background: #fff;
+	background: #cee8fd;
 	padding: 0 30px;
 }                      
 
@@ -293,9 +293,9 @@ header {
 
 .topBar {
 	font-size: 12px;
-	color: #fff;
+	color: #cee8fd;
 	overflow: hidden;
-	background: #333 url(../images/patterns/gray_jean.png);
+	background: #164f9f url(../images/patterns/gray_jean.png);
 	border-bottom: 1px solid #E5E5E5;
 }        
               
@@ -373,7 +373,7 @@ header {
                    
 .logo {
 	font-size: 45px;
-	text-shadow: 1px 1px #fff;
+	text-shadow: 1px 1px #cee8fd;
 	margin-top: 20px;
 	margin-bottom: 25px;
 }    
@@ -496,8 +496,8 @@ header {
 .catchText {
 	font-size: 18px;
 	line-height: 26px;
-	background: #333333;
-	color: #fff;
+	background: #164f9f;
+	color: #cee8fd;
 	border-bottom: 5px solid #EE7E2A;
 	margin-bottom: 40px;
 }      
@@ -518,7 +518,7 @@ header {
 	font-weight: normal
 }   
 .date-latest {
-	color: #fff;
+	color: #cee8fd;
 	font-size: 11px;
 	font-weight: normal;
 }
@@ -526,7 +526,7 @@ header {
 	padding: 0 5px;
 	height: 30px;
 	float: left;
-	color: #fff;
+	color: #cee8fd;
 	line-height: 30px;
 	text-align: center;
 	margin-right: 10px;
@@ -563,7 +563,7 @@ header {
 /* Testimonials */
 .infoBox {
 	background: #eee url(../images/bg-info.png) right bottom no-repeat;
-	text-shadow: 1px 1px #fff;
+	text-shadow: 1px 1px #cee8fd;
 }                      
 
 .reviewerImg {
@@ -587,7 +587,7 @@ header {
 
 ================================================================================*/
 .darkBg {
-	background: #333 !important;
+	background: #164f9f !important;
 	border-top: none !important;
 	margin: 0 auto !important;
 	padding-top: 10px;
@@ -600,15 +600,17 @@ footer h4 {
 /*==*/
 
 #mainFooter {
-	background: #333;
+	background: #164f9f;
 	overflow: hidden;
+	color:#cee8fd;
 }                      
 
 #mainFooter h4 {
-	color: #fff;
-	border-bottom: 1px solid #6e6e6e;
+	color: #AABF54;
+	border-bottom: 1px solid #eee;
 	padding-bottom: 12px;
 	margin-bottom: 12px;
+	font-weight: 800;
 }                      
 
 #mainFooter ul {
@@ -620,26 +622,31 @@ footer h4 {
 	margin: 20px 0;
 }
 
+#mainFooter a{
+	color:#cee8fd;
+}
+
 #mainFooter a:hover {
-	color: #fff;
+	color: #cee8fd;
 	text-decoration: none;
 }                      
 
 .bord-top {
-	background: url(../images/bord-top.gif) repeat-x top;
+	/*background: url(../images/bord-top.gif) repeat-x top;*/
+	border-top: 2px solid #eee;
 	padding-top: 15px;
 }                      
 
 .copyrights, .copyrights a{
 	font-size: 11px;
-	color: #787878
+	color: #328fd2;
 }                      
 
 .inputSubscribe {
 	display: block;
 	float: left;
 	width: 71% !important;
-	color: #b4b4b4 !important;
+	color: #328fd2 !important;
 	padding: 0 !important;
 	height: 35px !important;
 	line-height: 35px !important;
@@ -773,7 +780,7 @@ ul.socialBox li {
 }                      
 .day {
 	text-align: center;
-	color: #fff;
+	color: #cee8fd;
 	font-weight: bold;
 	background: #bfbfbf;
 	width: 100%;
@@ -785,7 +792,7 @@ ul.socialBox li {
 	background: #262626;
 	text-align: center;
 	text-transform: uppercase;
-	color: #fff;
+	color: #cee8fd;
 	font-size: 11px;
 	
 }                      
@@ -819,7 +826,7 @@ ul.socialBox li {
 .tags li a:hover {
 	background: #F5AF27;
 	text-decoration: none;
-	color: #fff;
+	color: #cee8fd;
 	-webkit-transition: all 0.3s ease-in;
 	-moz-transition: all 0.3s ease-in;
 	-ms-transition: all 0.3s ease-in;
@@ -832,8 +839,8 @@ ul.socialBox li {
 /**********************/
 .searchWidget {
 	margin-bottom: 20px;
-	background: #fff/*f9f8f8*/;
-	border: 1px solid #eee;
+	background: #cee8fd/*f9f8f8*/;
+	border: 1px solid #cee8fd;
 	padding: 10px;
 }                      
 .inputSearchWidget {
@@ -867,7 +874,7 @@ ul.socialBox li {
 	padding: 10px 20px;
 	background: #eee;	
 }                      
-ul#portfolio-filter a:hover, ul#portfolio-filter a.current{ background: #F5AF27; color: #fff; text-decoration: none }
+ul#portfolio-filter a:hover, ul#portfolio-filter a.current{ background: #F5AF27; color: #cee8fd; text-decoration: none }
 
 
 /*==============================================================================*/
@@ -894,7 +901,7 @@ ul#portfolio-filter a:hover, ul#portfolio-filter a.current{ background: #F5AF27;
 
 ================================================================================*/
 .member {
-	border-bottom: 4px solid #fff;
+	border-bottom: 4px solid #cee8fd;
 	overflow:hidden;
 	margin-bottom: 50px;
 }                      
@@ -929,7 +936,7 @@ ul#portfolio-filter a:hover, ul#portfolio-filter a.current{ background: #F5AF27;
 
 ================================================================================*/
 .notFound {
-	border: 1px solid #eee;
+	border: 1px solid #cee8fd;
 	text-align: center;
 	overflow: hidden;
 	padding: 50px 0;
@@ -937,7 +944,7 @@ ul#portfolio-filter a:hover, ul#portfolio-filter a.current{ background: #F5AF27;
 }                      
 .digit {
 	font-size: 225px;
-	text-shadow: 2px 2px #fff;
+	text-shadow: 2px 2px #cee8fd;
 	text-align: center;
 	margin: 0 auto;
 	overflow: hidden;
@@ -989,7 +996,7 @@ video {
 
 ================================================================================*/
 .blogOptions {
-	border-bottom: 1px solid #eee;
+	border-bottom: 1px solid #cee8fd;
 	padding-bottom: 15px;
 	margin-bottom: 15px;
 	font-size: 12px;
@@ -1049,7 +1056,7 @@ ul.authorSocials li i {
                    
 .addition {
 	padding: 10px 0;
-	border-top: 1px solid #eee;
+	border-top: 1px solid #cee8fd;
 }
 
 .media-heading {
@@ -1063,7 +1070,7 @@ ul.authorSocials li i {
 .comments .media-body p {
 	display: block;
 	margin-bottom: 15px;
-	border-bottom: 1px solid #EEE;
+	border-bottom: 1px solid #cee8fd;
 	padding-bottom: 15px
 }   
 
@@ -1130,15 +1137,15 @@ ul.authorSocials li i {
 
 .block:hover {
 	background: #F5AF27;
-	color: #fff;
+	color: #cee8fd;
 }
 
 .block:hover h3.color-text, .block:hover a, .block:hover h3 {
-	color: #fff;
+	color: #cee8fd;
 }
 
 .block:hover i {
-	color: #fff;
+	color: #eee;
 	-webkit-transition: all 0.2s ease-in-out;
      -moz-transition: all 0.2s ease-in-out;
        -o-transition: all 0.2s ease-in-out;
@@ -1164,7 +1171,7 @@ ul.authorSocials li i {
 	width: 24.5%;
 	margin-top: 30px;
 	float: left;
-	border: 1px solid #fff;
+	border: 1px solid #cee8fd;
 	position: relative;
 	z-index: 3;
 }
@@ -1176,8 +1183,8 @@ ul.authorSocials li i {
 .table-footer a {
 	display: block;
 	width: 100%;
-	background: #333;
-	color: #fff;
+	background: #164f9f;
+	color: #cee8fd;
 	padding: 20px 0;
 	font-size: 20px;
 }
@@ -1195,8 +1202,8 @@ ul.authorSocials li i {
 }
 
 .selected-table .table-footer a:hover, .table-wrap-2 .table-column:hover .table-footer a:hover {
-	background: #333333;
-	color: #fff;
+	background: #164f9f;
+	color: #cee8fd;
 	-webkit-transition: all 0.2s ease-in;
 	-moz-transition: all 0.2s ease-in;
 	-ms-transition: all 0.2s ease-in;
@@ -1207,8 +1214,8 @@ ul.authorSocials li i {
 .table-header h1 {
 	margin: 0;
 	width: 100%;
-	background: #333;
-	color: #fff;
+	background: #164f9f;
+	color: #cee8fd;
 	padding: 20px 0;
 }
 
@@ -1216,7 +1223,7 @@ ul.authorSocials li i {
 	position: relative;
 	min-height: 120px;
 	background: #F9F8F8;
-	text-shadow: 1px 1px #fff;
+	text-shadow: 1px 1px #cee8fd;
 }
 
 .price {
@@ -1232,7 +1239,7 @@ ul.authorSocials li i {
 
 .selected-table .plan, .table-wrap-2 .table-column:hover .plan{
 	color: #F5AF27;
-	background: #FFF;
+	background: #cee8fd;
 	-webkit-transition: all 0.2s ease-in;
 	-moz-transition: all 0.2s ease-in;
 	-ms-transition: all 0.2s ease-in;
@@ -1311,7 +1318,7 @@ ul.authorSocials li i {
 
 .selected-table .table-header h1, .table-wrap-2 .table-column:hover .table-header h1 {
 	background: #F5AF27;
-	color: #fff;
+	color: #cee8fd;
 	text-shadow: none;
 	padding: 35px 0;
 	font-size: 35px;
@@ -1414,7 +1421,7 @@ ul.authorSocials li i {
 	width: 100%;
 	height: 100%;
 	padding: 4px;
-	border: 1px solid #eee;
+	border: 1px solid #cee8fd;
 }
 /* / map */
 
@@ -1426,7 +1433,7 @@ ul.authorSocials li i {
 	padding: 10px;
 }
 .menu-features li {
-	border-bottom: 1px solid #eee;
+	border-bottom: 1px solid #cee8fd;
 	line-height: 22px;
 	width: 100%;
 }

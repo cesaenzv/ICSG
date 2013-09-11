@@ -60,10 +60,11 @@
             <div class="span3 centered tooltip-title">
                 <div class="block">
                     <div class="icon-block"><i class="icon-user"></i></div>
-                    <h3 class="color-text">100% RESPONSIVE</h3>
+                    <h3 class="color-text">CONOZCANOS</h3>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at velit id massa dignissim consectetur ut quis felis. 
-                        <a href="#" rel="tooltip" data-placement="top" title="Details">[...]</a>
+                        Conozca más acerca de nosotros contactándose directamente con nosotros vía telefónica o mail, o asista a nuestras oficinas.
+                        </br>
+                        <a href="contactenos.php" rel="tooltip" data-placement="top" title="Conozcanos">[...]</a>
                     </p>
                 </div>
             </div><!--/-->
@@ -73,10 +74,11 @@
             <div class="span3 centered tooltip-title">
             <div class="block">
                 <div class="icon-block"><i class="icon-tags"></i></div>
-                <h3 class="color-text">TWITTER BOOTSTRAP</h3>
+                <h3 class="color-text">NUESTROS SERVICIOS</h3>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at velit id massa dignissim consectetur ut quis felis. 
-                    <a href="#" rel="tooltip" data-placement="top" title="Details">[...]</a>
+                    Disfrute de los servicios que San German S.A. tiene para ofrecerle, al igual que conozca cada una de las características de estos.
+                    </br>
+                    <a href="servicios.php" rel="tooltip" data-placement="top" title="Servicios">[...]</a>
                 </p>
             </div>
             </div><!--/-->
@@ -86,10 +88,11 @@
             <div class="span3 centered tooltip-title">
             <div class="block">
                 <div class="icon-block"><i class="icon-cog"></i></div>
-                <h3 class="color-text">WELL ORGANIZED CODE</h3>
+                <h3 class="color-text">NUESTRAS APLICACIONES</h3>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at velit id massa dignissim consectetur ut quis felis. 
-                    <a href="#" rel="tooltip" data-placement="top" title="Details">[...]</a>
+                    Nuestras aplicaciones están dispuestas para su implementación funcionando en todo momento brindado un servicio 24/7.
+                    </br>
+                    <a href="aplicaciones.php" rel="tooltip" data-placement="top" title="Aplicaciones">[...]</a>
                 </p>
             </div>
             </div><!--/-->
@@ -99,10 +102,11 @@
             <div class="span3 centered tooltip-title">
             <div class="block">
                 <div class="icon-block"><i class="icon-list-alt"></i></div>
-                <h3 class="color-text">CLEAN DESIGN</h3>
+                <h3 class="color-text">PREGUNTAS FRECUENTES</h3>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at velit id massa dignissim consectetur ut quis felis. 
-                    <a href="#" rel="tooltip" data-placement="top" title="Details">[...]</a>
+                    Nuestro sitio contiene respuestas a las preguntas mas frecuentes, estando siempre pendientes de mejorar su comodidad.
+                    </br>
+                    <a href="preguntasfrecuentes.php" rel="tooltip" data-placement="top" title="Preguntas frecuentes">[...]</a>
                 </p>
             </div>
             </div><!--/-->
