@@ -115,14 +115,7 @@
         <!--/Block1-->
             
     </section><!--/Services Blocks-->
-    
-    
-    
-    
-     
-   	</div><!--/row-->
-        
-    </div> <!--/container-->
+   	
 <?php
     include('footer.php');
 ?>

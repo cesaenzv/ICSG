@@ -8,6 +8,19 @@
 	background-size: 100%;
 }
 
+.table thead{
+	background: #AABF54;
+	color:;
+}
+.table tbody td{
+	background: #fff;
+	border-left: 1px solid #AABF54;
+	border-bottom: 1px solid #AABF54;
+}
+.table tbody td:last-child {
+	border-right: 1px solid  #AABF54;
+}
+
 /*.custom-icon{
 	display: inline-block;
 	width: 1.25em;

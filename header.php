@@ -41,6 +41,7 @@
       <link href="css/ie.css" rel="stylesheet" />
     <![endif]-->
     
+    
 </head>
 
 <body onload="prettyPrint()">
@@ -65,10 +66,8 @@
                     <!-- SOCIALS -->
                     <div class="span6">
                       <ul class="tooltip-title top-social">
-                          <li><a href="#" rel="tooltip" title="Facebook" class="social1-top"></a></li>
-                            <li><a href="#" rel="tooltip" title="Twitter" class="social2-top"></a></li>
-                            <li><a href="#" rel="tooltip" title="Google+" class="social3-top"></a></li>
-                            <li><a href="#" rel="tooltip" title="Rss Feed" class="social4-top"></a></li>
+                          <li><a href="#" rel="tooltip" title="Contragarantias"><img src="http://placehold.it/50x50" class="img-circle"></a></li>
+                          <li><a href="#" rel="tooltip" title="Sarlaft" ><img src="http://placehold.it/50x50" class="img-circle"></a></a></li>
                         </ul>
                     </div>
                     <!--/SOCIALS-->
@@ -83,12 +82,11 @@
                               <li><a href="index.php" class="fNiv active">Inicio<br/>
                                 <span class="smallText">Pagina inicial</span></a>
                               </li>
-                              <li><a href="quienessomos.php" class="fNiv">Quienes somos<br/>
+                              <li><a href="" class="fNiv">Quienes somos<br/>
                                 <span class="smallText">Conocenos</span></a>
                                 <ul>
-                                  <li><a href="">Mision</a></li>
-                                  <li><a href="">Vision</a></li>
-                                  <li><a href="">Valores</a></li>
+                                  <li><a href="quienessomos.php">Nosotros</a></li>
+                                  <li><a href="mis_vis_val.php">Mision, Vision y Valores</a></li>
                               </ul>
                             </li>                            
                             <li><a href="#" class="fNiv">Productos<br/>
@@ -98,7 +96,7 @@
                                     <a>Servicios</a>
                                     <ul>
                                       <li><a href="serv_custcontr.php">Custodia de Contragarantias</a></li>
-                                      <li><a href="serv_chepos.php">Cheques Posfechados</a></li>
+                                      <!--<li><a href="serv_chepos.php">Cheques Posfechados</a></li>-->
                                       <li><a href="serv_gestcart.php">Gestion de Cartera</a></li>
                                       <li><a href="serv_finpri.php">Financiamento Primas</a></li>
                                     </ul>
@@ -116,13 +114,13 @@
                               <span class="smallText">Preguntas areas ICSG Ltda.</span></a>
                               <ul>
                                 <li><a href="custodiacontragarantias.php">Custodia Contragarantías</a></li>
-                                <li><a href="chequesposfechados.php">Cheques Posfechados</a></li>
+                                <!--<li><a href="chequesposfechados.php">Cheques Posfechados</a></li>-->
                                 <li><a href="gestioncartera.php">Gestión Cartera</a></li>
                                 <li><a href="financiamientoprimas.php">Financiamento Primas</a></li>
                               </ul>
                             </li>
                             <li>
-                              <a href="" class="fNiv last">Contactenos<br/>
+                              <a href="contactenos.php" class="fNiv last">Contactenos<br/>
                               <span class="smallText">Envienos un mensaje</span></a>
                             </li>
                           </ul>

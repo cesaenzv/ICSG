@@ -12,6 +12,15 @@
               <li><a href="#FAQ4"><i class="icon-question-sign"></i> ¿Cuál es el procedimiento para que ICSG devuelva un cheque posfechado a la Sucursal?</a></li>
               <li><a href="#FAQ5"><i class="icon-question-sign"></i> ¿Cómo se deben remitir los cheques posfechados a INVERSIONES COMERCIALES SAN GERMAN S.A.?</a></li>
           </ul>
+          </br>
+          </br>
+          <img src="http://placehold.it/250x150" class="img-polaroid">
+          </br>
+          </br>
+          <img src="http://placehold.it/250x150" class="img-polaroid">
+          </br>
+          </br>
+          <img src="http://placehold.it/250x150" class="img-polaroid">
         </div>
       </div><!--/span2-->
       <div class="span9">

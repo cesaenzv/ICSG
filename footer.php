@@ -1,5 +1,6 @@
-
-
+    </div><!--/row-->
+        
+    </div> <!--/container-->
     <!-- Footer
     ============================================================================================================= -->
     <div class="container darkBg">
@@ -58,9 +59,9 @@
                             </div>
                             
                             <div class="span6">
-                                <ul class="footer-social tooltip-title">
-                                    <li><a href="#" rel="tooltip" title="Contragarantias"><i class="icon-google-plus-sign"></i></a></li>
-                                    <li><a href="#" rel="tooltip" title="Sarlaft"><i class="icon-pinterest-sign"></i></a></li>                                
+                                <ul class="footer-social tooltip-title">                                    
+                                    <li><a href="#" rel="tooltip" title="Contragarantias"><img src="http://placehold.it/30x30" class="img-rounded"></a></li>
+                                    <li><a href="#" rel="tooltip" title="Sarlaft" ><img src="http://placehold.it/30x30" class="img-rounded"></a></a></li>                                
                                 </ul>
                             </div>
                         </div>
@@ -98,7 +99,7 @@
     <script defer src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script><!--REVOLUTION SLIDER-->
     <script src="js/custom.js"></script><!-- All scripts that shuold be on html file collected here -->
     <script src="js/styleswitch.js"></script> <!-- Style Colors Switcher -->
-    
+    <script src="js/custom_javascript.js"></script> <!-- Style Colors Switcher -->
     </div>
     </div>
 </body>

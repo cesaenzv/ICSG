@@ -3,10 +3,14 @@
 ?>
 
 <div class="page-header">
-	<h1>ADMINISTRACION Y CUSTODIA DE CONTRAGARANTIAS</h1>	
+	<h1><span class="logoFirst">Administración</span> y custodia de contragarantias</h1>	
 </div>
 <div class="row outerDiv">
+
 	<div class="span12">
+		<img src="http://placehold.it/900x80" class="img-polaroid"/>
+		</br>
+		</br>
 		<p>
 		Las contragarantías objeto de este servicio son aquellas que respaldan pólizas expedidas por Seguros del Estado S.A. en los ramos de Cumplimiento y Judiciales e incluyen los documentos anexos correspondientes.
 		</p>

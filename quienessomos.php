@@ -2,7 +2,7 @@
     include('header.php');
 ?>
 	 <div class="page-header">
-       <h1>Sobre nosostros</h1>
+       <h1><span class="logoFirst">Sobre</span> nosostros</h1>
     </div>
     <div class="row outerDiv">
       <div class="span8">
@@ -28,7 +28,7 @@
             </div>
             <div id="collapseOne" class="accordion-body collapse in">
               <div class="accordion-inner">
-                
+                <small>Lorem ipsum dolor sit amet, consectetur<a href="mis_vis_val.php">[...]</a></small>  
               </div>
             </div>
           </div>
@@ -42,7 +42,7 @@
             </div>
             <div id="collapseTwo" class="accordion-body collapse">
               <div class="accordion-inner">
-                
+                <small>Lorem ipsum dolor sit amet, consectetur<a href="mis_vis_val.php">[...]</a></small>  
               </div>
             </div>
           </div>
@@ -56,7 +56,7 @@
             </div>
             <div id="collapseThree" class="accordion-body collapse">
               <div class="accordion-inner">
-                
+                <small>Lorem ipsum dolor sit amet, consectetur<a href="mis_vis_val.php">[...]</a></small>  
               </div>
             </div>
           </div>

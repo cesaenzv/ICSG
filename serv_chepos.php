@@ -2,7 +2,7 @@
 	include('header.php')
 ?>
 <div class="page-header">
-	<h1>ADMINISTRACION Y CUSTODIA DE CHEQUES POSFECHADOS</h1>	
+	<h1><span class="logoFirst">Administración</span> y custodia de cheques posfechados</h1>	
 </div>
 <div class="row outerDiv">
 	<div class="span12">

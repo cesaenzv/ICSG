@@ -13,6 +13,18 @@
               <li><a href="#FAQ5"><i class="icon-question-sign"></i> ¿Cuál es el proceso para consultar el estado de cuenta de un crédito?</a></li>
               </a></li>
           </ul>
+          </br>
+          </br>
+          <img src="http://placehold.it/120x120" class="img-polaroid">
+          <img src="http://placehold.it/120x120" class="img-polaroid">
+          </br>
+          </br>
+          <img src="http://placehold.it/120x120" class="img-polaroid">
+          <img src="http://placehold.it/120x120" class="img-polaroid">
+          </br>
+          </br>
+          <img src="http://placehold.it/120x120" class="img-polaroid">
+          <img src="http://placehold.it/120x120" class="img-polaroid">
         </div>
       </div><!--/span2-->
       <div class="span9">

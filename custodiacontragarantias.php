@@ -15,6 +15,9 @@
               <li><a href="#FAQ7"><i class="icon-question-sign"></i> ¿Cómo obtener información de una contragarantía, sin solicitarla a la gerencia de fianzas?</a></li>
               <li><a href="#FAQ8"><i class="icon-question-sign"></i> ¿Cómo saber a que sucursal pertenece una contragarantía?</a></li>
           </ul>
+          </br>
+          </br>
+          <img src="http://placehold.it/250x600" class="img-polaroid">
         </div>
       </div><!--/span2-->
       <div class="span9">

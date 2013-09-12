@@ -41,7 +41,7 @@
 .tabs-below > .nav-tabs > .active > a, 
 .tabs-below > .nav-tabs > .active > a:hover {
 	color: #787878;
-	background-color: #f7f5f6;
+	background: rgba(247,245,246,0.4);
 	border: none;
 	border-top: 2px solid #F5AF27;
 }
@@ -97,7 +97,7 @@
 	border-right: none
 }
 .tab-content {
-	background: #f7f5f6;
+	background: rgba(247,245,246,0.4);
 	padding: 20px;
 }
 .tab-content h5, .tab-content h4, .tab-content h3 {

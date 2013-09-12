@@ -11,7 +11,7 @@
               <li><a href="#FAQ3"><i class="icon-question-sign"></i> ¿Cuál es el procedimiento para que ICSG S.A. prorrogue la fecha de consignación de un cheque?</a></li>
               <li><a href="#FAQ4"><i class="icon-question-sign"></i> ¿Cuál es el procedimiento para que ICSG devuelva un cheque posfechado a la Sucursal?</a></li>
               <li><a href="#FAQ5"><i class="icon-question-sign"></i> ¿Cómo se deben remitir los cheques posfechados a INVERSIONES COMERCIALES SAN GERMAN S.A.?</a></li>
-          </ul>
+          </ul>          
         </div>
       </div><!--/span2-->
       <div class="span9">

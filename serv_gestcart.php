@@ -2,10 +2,10 @@
 	include('header.php')
 ?>
 <div class="page-header">
-	<h1>GESTION DE COBRANZA DE CARTERA MOROSA Y DE DIFICIL RECAUDO</h1>	
+	<h1><span class="logoFirst">Gestion</span>de cobranza de carter morosa y de dificil recaudo</h1>	
 </div>
 <div class="row outerDiv">
-	<div class="span12">
+	<div class="span8">
 		<p>
 			Esta área proporciona servicios de cobranza de cartera morosa y de difícil recaudo mediante cobro prejurídico y/o jurídico.
 		</p>
@@ -21,6 +21,9 @@
 		<p>
 			Para la adecuada prestación de nuestros servicios, INVERSIONES COMERCIALES SAN GERMAN. cuenta con un equipo de profesionales con adecuada formación y entrenamiento, dispuestos a brindar un servicio eficiente y oportuno, aplicando criterios de responsabilidad, honestidad, integridad y calidad que derivan en resultados efectivos.
 		</p>			
+	</div>
+	<div class="span4">
+		<img src="http://placehold.it/300x400" class="img-polaroid">
 	</div>		
 </div>
 <?php 
