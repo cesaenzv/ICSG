@@ -1,7 +1,4 @@
-<?php 
-	include("header.php")
-?>
-
+<?php get_header();?>
 <div class="row">
 	<div class="span4">
 	  	<div class="block marB20">
@@ -32,6 +29,4 @@
   	</div>	
 </div>
 
-<?php 
-	include("footer.php")
-?>
+<?php get_footer();?>

@@ -79,27 +79,27 @@
   <!-- javascript
     ============================================================================================================= -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="js/jquery.js"></script><!-- Main JQuery -->
-    <script src="js/bootstrap.js"></script><!-- Bootstrap Js main file -->
-    <script src="js/jquery.easing.1.3.js"></script><!-- easing.1.3 -->
-    <script src="js/jquery.cookie.js"></script><!-- cookie -->
-    <script src="js/jquery-ui-1.8.20.custom.min.js"></script><!-- jquery-ui -->
-    <script src="js/responsive-menu.js"></script><!-- Responsive menu -->
-    <script src="js/jMenu.jquery.js"></script><!-- Nav menu -->    
-    <script defer src="js/jquery.flexslider.js"></script><!-- Flex Basic carousel -->
-    <script src="js/jquery.prettyPhoto.js"></script><!-- PrettyPhoto -->    
-    <script src="js/jquery.liquid-slider-0.1.js"></script><!-- Testimonials - text slider -->
-    <script src="js/jquery.tweet.js"></script><!-- Twitter plugin -->
-    <script src="js/jflickrfeed.min.js"></script><!-- jQuery Flickr -->
-    <script src="js/jquery.ui.totop.js" ></script><!-- Go to top -->
-    <script src="js/filterable.pack.js"></script><!-- Filter portfolio -->
-    <script src="js/audio.min.js"></script><!-- audio player -->
-    <script src="js/prettify.js"></script><!-- YOU CAN REMOVE IT // it's associated with shortcodes preview boxes -->
-    <script defer src="rs-plugin/js/jquery.themepunch.plugins.min.js"></script><!--REVOLUTION SLIDER-->
-    <script defer src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script><!--REVOLUTION SLIDER-->
-    <script src="js/custom.js"></script><!-- All scripts that shuold be on html file collected here -->
-    <script src="js/styleswitch.js"></script> <!-- Style Colors Switcher -->
-    <script src="js/custom_javascript.js"></script> <!-- Style Colors Switcher -->
+    <script src="<?php echo THEMEROOT; ?>/js/jquery.js"></script><!-- Main JQuery -->
+    <script src="<?php echo THEMEROOT; ?>/js/bootstrap.js"></script><!-- Bootstrap Js main file -->
+    <script src="<?php echo THEMEROOT; ?>/js/jquery.easing.1.3.js"></script><!-- easing.1.3 -->
+    <script src="<?php echo THEMEROOT; ?>/js/jquery.cookie.js"></script><!-- cookie -->
+    <script src="<?php echo THEMEROOT; ?>/js/jquery-ui-1.8.20.custom.min.js"></script><!-- jquery-ui -->
+    <script src="<?php echo THEMEROOT; ?>/js/responsive-menu.js"></script><!-- Responsive menu -->
+    <script src="<?php echo THEMEROOT; ?>/js/jMenu.jquery.js"></script><!-- Nav menu -->    
+    <script defer src="<?php echo THEMEROOT; ?>/js/jquery.flexslider.js"></script><!-- Flex Basic carousel -->
+    <script src="<?php echo THEMEROOT; ?>/js/jquery.prettyPhoto.js"></script><!-- PrettyPhoto -->    
+    <script src="<?php echo THEMEROOT; ?>/js/jquery.liquid-slider-0.1.js"></script><!-- Testimonials - text slider -->
+    <script src="<?php echo THEMEROOT; ?>/js/jquery.tweet.js"></script><!-- Twitter plugin -->
+    <script src="<?php echo THEMEROOT; ?>/js/jflickrfeed.min.js"></script><!-- jQuery Flickr -->
+    <script src="<?php echo THEMEROOT; ?>/js/jquery.ui.totop.js" ></script><!-- Go to top -->
+    <script src="<?php echo THEMEROOT; ?>/js/filterable.pack.js"></script><!-- Filter portfolio -->
+    <script src="<?php echo THEMEROOT; ?>/js/audio.min.js"></script><!-- audio player -->
+    <script src="<?php echo THEMEROOT; ?>/js/prettify.js"></script><!-- YOU CAN REMOVE IT // it's associated with shortcodes preview boxes -->
+    <script defer src="<?php echo THEMEROOT; ?>/rs-plugin/js/jquery.themepunch.plugins.min.js"></script><!--REVOLUTION SLIDER-->
+    <script defer src="<?php echo THEMEROOT; ?>/rs-plugin/js/jquery.themepunch.revolution.min.js"></script><!--REVOLUTION SLIDER-->
+    <script src="<?php echo THEMEROOT; ?>/js/custom.js"></script><!-- All scripts that shuold be on html file collected here -->
+    <script src="<?php echo THEMEROOT; ?>/js/styleswitch.js"></script> <!-- Style Colors Switcher -->
+    <script src="<?php echo THEMEROOT; ?>/js/custom_javascript.js"></script> <!-- Style Colors Switcher -->
     </div>
     </div>
 </body>

@@ -1,6 +1,4 @@
-<?php 
-	include("header.php")
-?>
+
 
 <?php 
 	$headerTable = "<table class=table>
@@ -22,7 +20,7 @@
 			var str = $(this).serialize();
 			$.ajax({
 				type: "POST",
-				url: "contact/includes/contact-process.php",
+				url: "<?php echo THEMEROOT; ?>/contact/includes/contact-process.php",
 				data: str,
 				success: function(msg) {
 	    			// Message Sent? Show the 'Thank You' message and hide the form
@@ -132,9 +130,6 @@
 
 
 
-<?php 
-	include("footer.php")
-?>
 
 <script>
 	$(document).ready(function(){

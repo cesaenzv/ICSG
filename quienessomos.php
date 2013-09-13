@@ -1,6 +1,4 @@
-<?php
-    include('header.php');
-?>
+<?php get_header();?>
 	 <div class="page-header">
        <h1><span class="logoFirst">Sobre</span> nosostros</h1>
     </div>
@@ -28,7 +26,7 @@
             </div>
             <div id="collapseOne" class="accordion-body collapse in">
               <div class="accordion-inner">
-                <small>Lorem ipsum dolor sit amet, consectetur<a href="mis_vis_val.php">[...]</a></small>  
+                <small>Lorem ipsum dolor sit amet, consectetur<a href="<?php echo THEMEROOT; ?>/mis_vis_val.php">[...]</a></small>  
               </div>
             </div>
           </div>
@@ -42,7 +40,7 @@
             </div>
             <div id="collapseTwo" class="accordion-body collapse">
               <div class="accordion-inner">
-                <small>Lorem ipsum dolor sit amet, consectetur<a href="mis_vis_val.php">[...]</a></small>  
+                <small>Lorem ipsum dolor sit amet, consectetur<a href="<?php echo THEMEROOT; ?>/mis_vis_val.php">[...]</a></small>  
               </div>
             </div>
           </div>
@@ -56,7 +54,7 @@
             </div>
             <div id="collapseThree" class="accordion-body collapse">
               <div class="accordion-inner">
-                <small>Lorem ipsum dolor sit amet, consectetur<a href="mis_vis_val.php">[...]</a></small>  
+                <small>Lorem ipsum dolor sit amet, consectetur<a href="<?php echo THEMEROOT; ?>/mis_vis_val.php">[...]</a></small>  
               </div>
             </div>
           </div>
@@ -65,6 +63,4 @@
         
       </div>
     </div>
-<?php
-    include('footer.php');
-?>
+<?php get_footer();?>

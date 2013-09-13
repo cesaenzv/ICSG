@@ -1,6 +1,4 @@
-<?php 
-	include("header.php")
-?>
+<?php get_header();?>
 
 <div class="row">
 	<div class="span12">
@@ -10,6 +8,4 @@
 	</div>	
 </div>
 
-<?php 
-	include("footer.php")
-?>
+<?php get_footer();?>

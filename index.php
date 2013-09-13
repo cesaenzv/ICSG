@@ -1,6 +1,4 @@
-<?php
-    include('header.php');
-?>
+<?php get_header();?>
 
 <!-- Content
     ============================================================================================================== -->
@@ -15,10 +13,10 @@
     <div id="myCarousel" class="carousel slide noMarginBottom">
       <!-- Carousel items -->
       <div class="carousel-inner">
-        <div class="active item"><img alt=""  src="images/img/slide4.jpg"  /></div>
-        <div class="item"><img alt=""  src="images/img/slide2.jpg"  /></div>
-        <div class="item"><img alt=""  src="images/img/slide3.jpg"  /></div>
-        <div class="item"><img alt=""  src="images/img/slide1.jpg"  /></div>
+        <div class="active item"><img alt=""  src="<?php echo THEMEROOT; ?>/images/img/slide4.jpg"  /></div>
+        <div class="item"><img alt=""  src="<?php echo THEMEROOT; ?>/images/img/slide2.jpg"  /></div>
+        <div class="item"><img alt=""  src="<?php echo THEMEROOT; ?>/images/img/slide3.jpg"  /></div>
+        <div class="item"><img alt=""  src="<?php echo THEMEROOT; ?>/images/img/slide1.jpg"  /></div>
       </div>
       <!-- Carousel nav -->
       <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
@@ -64,7 +62,7 @@
                     <p>
                         Conozca más acerca de nosotros contactándose directamente con nosotros vía telefónica o mail, o asista a nuestras oficinas.
                         </br>
-                        <a href="contactenos.php" rel="tooltip" data-placement="top" title="Conozcanos">[...]</a>
+                        <a href="<?php echo THEMEROOT; ?>/contactenos.php" rel="tooltip" data-placement="top" title="Conozcanos">[...]</a>
                     </p>
                 </div>
             </div><!--/-->
@@ -78,7 +76,7 @@
                 <p>
                     Disfrute de los servicios que San German S.A. tiene para ofrecerle, al igual que conozca cada una de las características de estos.
                     </br>
-                    <a href="servicios.php" rel="tooltip" data-placement="top" title="Servicios">[...]</a>
+                    <a href="<?php echo THEMEROOT; ?>/servicios.php" rel="tooltip" data-placement="top" title="Servicios">[...]</a>
                 </p>
             </div>
             </div><!--/-->
@@ -92,7 +90,7 @@
                 <p>
                     Nuestras aplicaciones están dispuestas para su implementación funcionando en todo momento brindado un servicio 24/7.
                     </br>
-                    <a href="aplicaciones.php" rel="tooltip" data-placement="top" title="Aplicaciones">[...]</a>
+                    <a href="<?php echo THEMEROOT; ?>/aplicaciones.php" rel="tooltip" data-placement="top" title="Aplicaciones">[...]</a>
                 </p>
             </div>
             </div><!--/-->
@@ -106,7 +104,7 @@
                 <p>
                     Nuestro sitio contiene respuestas a las preguntas mas frecuentes, estando siempre pendientes de mejorar su comodidad.
                     </br>
-                    <a href="preguntasfrecuentes.php" rel="tooltip" data-placement="top" title="Preguntas frecuentes">[...]</a>
+                    <a href="<?php echo THEMEROOT; ?>/preguntasfrecuentes.php" rel="tooltip" data-placement="top" title="Preguntas frecuentes">[...]</a>
                 </p>
             </div>
             </div><!--/-->
@@ -116,6 +114,4 @@
             
     </section><!--/Services Blocks-->
    	
-<?php
-    include('footer.php');
-?>
+<?php get_footer();?>

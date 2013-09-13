@@ -1,6 +1,4 @@
-<?php
-    include('header.php');
-?>
+<?php get_header();?>
 
 <div class="row sticky" id="outerDiv">
       <div class="span3" id="main-nav-holder">
@@ -98,6 +96,4 @@
       </div>
     </div>
 
-<?php
-    include('footer.php');
-?>
+<?php get_footer();?>
