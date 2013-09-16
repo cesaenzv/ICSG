@@ -1,6 +1,7 @@
 
 
-<?php 
+<?php
+	include("header.php"); 
 	$headerTable = "<table class=table>
 		  		<caption></caption>
 		  		<thead>
@@ -129,7 +130,9 @@
 </div>
 
 
-
+<?php 
+	include("footer.php");
+?>
 
 <script>
 	$(document).ready(function(){

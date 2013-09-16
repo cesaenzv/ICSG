@@ -1,4 +1,4 @@
-<?php get_header();?>
+<?php include("header.php");?>
 <div class="page-header">
 	<h1><span class="logoFirst">Financiamientos</span> de primas</h1>	
 </div>
@@ -56,4 +56,4 @@
 		</div>		
 	</div>		
 </div>
-<?php get_footer();?>
+<?php include("footer.php");?>

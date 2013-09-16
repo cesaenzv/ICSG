@@ -1,4 +1,4 @@
-<?php get_header();?>
+<?php include("header.php");?>
 <div class="page-header">
 	<h1><span class="logoFirst">Administración</span> y custodia de contragarantias</h1>	
 </div>
@@ -28,4 +28,4 @@
 	</div>		
 </div>
 
-<?php get_footer();?>
+<?php include("footer.php");?>

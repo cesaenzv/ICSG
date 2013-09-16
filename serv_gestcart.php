@@ -1,4 +1,4 @@
-<?php get_header();?>
+<?php include("header.php");?>
 <div class="page-header">
 	<h1><span class="logoFirst">Gestion</span>de cobranza de carter morosa y de dificil recaudo</h1>	
 </div>
@@ -24,4 +24,4 @@
 		<img src="http://placehold.it/300x400" class="img-polaroid">
 	</div>		
 </div>
-<?php get_footer();?>
+<?php include("footer.php");?>

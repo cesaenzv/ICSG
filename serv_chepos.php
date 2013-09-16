@@ -1,4 +1,4 @@
-<?php get_header();?>
+<?php include("header.php");?>
 <div class="page-header">
 	<h1><span class="logoFirst">Administración</span> y custodia de cheques posfechados</h1>	
 </div>
@@ -29,4 +29,4 @@
 		</p>	
 	</div>		
 </div>
-<?php get_footer();?>
+<?php include("footer.php");?>

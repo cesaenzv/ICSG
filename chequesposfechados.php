@@ -1,4 +1,4 @@
-<?php get_header();?>
+<?php include("header.php");?>
 <div class="row sticky" id="outerDiv">
       <div class="span3" id="main-nav-holder">
         <div>
